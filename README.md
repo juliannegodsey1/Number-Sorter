@@ -27,3 +27,7 @@ The app currently supports the following sorting algorithms:
 - HTML
 - CSS
 - JavaScript
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
